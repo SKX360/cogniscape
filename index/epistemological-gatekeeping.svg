@@ -1,0 +1,276 @@
+<svg ed:hSpacing="30" ed:name="Page-1" xmlns:xlink="http://www.w3.org/1999/xlink" width="1206" ed:vSpacing="30" viewBox="0 0 1206 736" height="736" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:ed="https://www.edrawsoft.com/xml/2017/SVGExtensions/" id="page300000100" xmlns="http://www.w3.org/2000/svg">
+	<style type="text/css">
+		<![CDATA[
+g[ed\:togtopicid],g[ed\:hyperlink],g[ed\:comment],g[ed\:note] {cursor:pointer;}
+g[id] {-moz-user-select: none;-ms-user-select: none;user-select: none;}
+svg text::selection,svg tspan::selection{background-color: #4285f4;color: #ffffff;fill: #ffffff;}
+.st16 {fill:#000000;font-family:Arial;font-size:10pt}
+.st17 {fill:#000000;font-family:Arial;font-size:14pt;font-weight:bold}
+.st18 {fill:#ffffff;font-family:Arial;font-size:18pt;font-weight:bold}
+]]>
+	</style>
+	<defs/>
+	<rect y="0" width="1206" height="736" fill="#ffffff" x="0"/>
+	<a xlink:href="../content-vault/articles/Quantum_Physics/Bell-EPR_Family_of_Experiments.pdf" target="_top">
+		<g transform="matrix(1,0,0,1,926.11,133)" ed:height="22" ed:width="234.66666666666666" ed:parentid="126" id="124">
+			<text class="st16">
+				<tspan style="white-space:pre" y="17.3" textLength="190" x="11">Bell-EPR Familly of Experiments</tspan>
+			</text>
+			<g ed:hyperlink="[&#xa;    {&#xa;        &quot;desc&quot;: &quot;Hyperlink1&quot;,&#xa;        &quot;link&quot;: &quot;SVG not support&quot;&#xa;    }&#xa;]&#xa;">
+				<use transform="translate(205,2)" xlink:href="#imghyperlink"/>
+			</g>
+		</g>
+	</a>
+		
+	<symbol id="imghyperlink">
+		<image width="16" height="16" xlink:href="data:image/png;base64,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"/>
+	</symbol>
+	<a xlink:href="../content-vault/articles/Quantum_Physics/Decoherence.pdf" target="_top">
+	<g transform="matrix(1,0,0,1,926.11,161.5)" ed:height="22" ed:width="123.33333333333333" ed:parentid="126" id="125">
+		<text class="st16">
+			<tspan style="white-space:pre" y="17.3" textLength="76" x="11">Decoherence</tspan>
+		</text>
+		<g ed:hyperlink="[&#xa;    {&#xa;        &quot;desc&quot;: &quot;Hyperlink1&quot;,&#xa;        &quot;link&quot;: &quot;SVG not support&quot;&#xa;    }&#xa;]&#xa;">
+			<use transform="translate(94,2)" xlink:href="#imghyperlink"/>
+		</g>
+	</g>
+	</a>
+	<a xlink:href="../content-vault/articles/Quantum_Physics/Engineereed_Collapse.pdf" target="_top">
+	<g transform="matrix(1,0,0,1,926.11,190)" ed:height="22" ed:width="166.66666666666669" ed:parentid="126" id="175">
+		<text class="st16">
+			<tspan style="white-space:pre" y="17.3" textLength="119" x="11">Engineered Collapse</tspan>
+		</text>
+		<g ed:hyperlink="[&#xa;    {&#xa;        &quot;desc&quot;: &quot;Hyperlink1&quot;,&#xa;        &quot;link&quot;: &quot;SVG not support&quot;&#xa;    }&#xa;]&#xa;">
+			<use transform="translate(137,2)" xlink:href="#imghyperlink"/>
+		</g>
+	</g>
+	</a>
+		<a xlink:href="../content-vault/articles/Quantum_Physics/HUP.pdf" target="_top">
+	<g transform="matrix(1,0,0,1,926.11,218.5)" ed:height="22" ed:width="227.33333333333334" ed:parentid="126" id="130">
+		<text class="st16">
+			<tspan style="white-space:pre" y="17.3" textLength="182" x="11">Hisenberg Uncertainty Principle</tspan>
+		</text>
+		<g ed:hyperlink="[&#xa;    {&#xa;        &quot;desc&quot;: &quot;Hyperlink1&quot;,&#xa;        &quot;link&quot;: &quot;SVG not support&quot;&#xa;    }&#xa;]&#xa;">
+			<use transform="translate(198,2)" xlink:href="#imghyperlink"/>
+		</g>
+	</g>
+	</a>
+	<a xlink:href="../content-vault/articles/Quantum_Physics/Intent_over_Consciousness.pdf" target="_top">
+	<g transform="matrix(1,0,0,1,926.11,247)" ed:height="22" ed:width="199.33333333333334" ed:parentid="126" id="261">
+		<text class="st16">
+			<tspan style="white-space:pre" y="17.3" textLength="152" x="11">Intent over Consciousness</tspan>
+		</text>
+		<g ed:hyperlink="[&#xa;    {&#xa;        &quot;desc&quot;: &quot;Hyperlink1&quot;,&#xa;        &quot;link&quot;: &quot;SVG not support&quot;&#xa;    }&#xa;]&#xa;">
+			<use transform="translate(170,2)" xlink:href="#imghyperlink"/>
+		</g>
+	</g>
+	</a>
+	<a xlink:href="../content-vault/articles/Quantum_Physics/Measurement_Postulate.pdf" target="_top">
+	<g transform="matrix(1,0,0,1,926.11,275.5)" ed:height="22" ed:width="184.66666666666666" ed:parentid="126" id="397">
+		<text class="st16">
+			<tspan style="white-space:pre" y="17.3" textLength="138" x="11">Measurement Postulate</tspan>
+		</text>
+		<g ed:hyperlink="[&#xa;    {&#xa;        &quot;desc&quot;: &quot;Hyperlink1&quot;,&#xa;        &quot;link&quot;: &quot;SVG not support&quot;&#xa;    }&#xa;]&#xa;">
+			<use transform="translate(155,2)" xlink:href="#imghyperlink"/>
+		</g>
+	</g>
+	</a>
+	<a xlink:href="../content-vault/articles/Quantum_Physics/No-Cloning_Theorem.pdf" target="_top">
+	<g transform="matrix(1,0,0,1,926.11,304)" ed:height="22" ed:width="164.66666666666669" ed:parentid="126" id="131">
+		<text class="st16">
+			<tspan style="white-space:pre" y="17.3" textLength="117" x="11">No Cloning Theorem</tspan>
+		</text>
+		<g ed:hyperlink="[&#xa;    {&#xa;        &quot;desc&quot;: &quot;Hyperlink1&quot;,&#xa;        &quot;link&quot;: &quot;SVG not support&quot;&#xa;    }&#xa;]&#xa;">
+			<use transform="translate(135,2)" xlink:href="#imghyperlink"/>
+		</g>
+	</g>
+	</a>
+	<a xlink:href="../content-vault/articles/Quantum_Physics/Non-Determinism.pdf" target="_top">
+	<g transform="matrix(1,0,0,1,926.11,332.5)" ed:height="22" ed:width="146" ed:parentid="126" id="133">
+		<text class="st16">
+			<tspan style="white-space:pre" y="17.3" textLength="100" x="11">Non-Determinism</tspan>
+		</text>
+		<g ed:hyperlink="[&#xa;    {&#xa;        &quot;desc&quot;: &quot;Hyperlink1&quot;,&#xa;        &quot;link&quot;: &quot;SVG not support&quot;&#xa;    }&#xa;]&#xa;">
+			<use transform="translate(116,2)" xlink:href="#imghyperlink"/>
+		</g>
+	</g>
+	</a>
+	<a xlink:href="../content-vault/articles/Quantum_Physics/Non-Locality.pdf" target="_top">
+	<g transform="matrix(1,0,0,1,926.11,361)" ed:height="22" ed:width="118" ed:parentid="126" id="722">
+		<text class="st16">
+			<tspan style="white-space:pre" y="17.3" textLength="72" x="11">Non-Locality</tspan>
+		</text>
+		<g ed:hyperlink="[&#xa;    {&#xa;        &quot;desc&quot;: &quot;Hyperlink1&quot;,&#xa;        &quot;link&quot;: &quot;SVG not support&quot;&#xa;    }&#xa;]&#xa;">
+			<use transform="translate(88,2)" xlink:href="#imghyperlink"/>
+		</g>
+	</g>
+	</a>
+	<a xlink:href="../content-vault/articles/Quantum_Physics/No-Signaling_Theorem.pdf" target="_top">
+	<g transform="matrix(1,0,0,1,926.11,389.5)" ed:height="22" ed:width="176.66666666666666" ed:parentid="126" id="132">
+		<text class="st16">
+			<tspan style="white-space:pre" y="17.3" textLength="130" x="11">No Signalling Theorem</tspan>
+		</text>
+		<g ed:hyperlink="[&#xa;    {&#xa;        &quot;desc&quot;: &quot;Hyperlink1&quot;,&#xa;        &quot;link&quot;: &quot;SVG not support&quot;&#xa;    }&#xa;]&#xa;">
+			<use transform="translate(147,2)" xlink:href="#imghyperlink"/>
+		</g>
+	</g>
+	</a>
+	<a xlink:href="../content-vault/articles/Quantum_Physics/Preferred-Basis_Problem.pdf" target="_top">
+	<g transform="matrix(1,0,0,1,926.11,418)" ed:height="22" ed:width="191.33333333333334" ed:parentid="126" id="786">
+		<text class="st16">
+			<tspan style="white-space:pre" y="17.3" textLength="141" x="11">Preferred-Basis Problem</tspan>
+		</text>
+		<g ed:hyperlink="[&#xa;    {&#xa;        &quot;desc&quot;: &quot;Hyperlink1&quot;,&#xa;        &quot;link&quot;: &quot;SVG not support&quot;&#xa;    }&#xa;]&#xa;">
+			<use transform="translate(162,2)" xlink:href="#imghyperlink"/>
+		</g>
+	</g>
+	</a>
+	<a xlink:href="../content-vault/articles/Quantum_Physics/Probability.pdf" target="_top">
+	<g transform="matrix(1,0,0,1,926.11,446.5)" ed:height="22" ed:width="107.33333333333333" ed:parentid="126" id="788">
+		<text class="st16">
+			<tspan style="white-space:pre" y="17.3" textLength="61" x="11">Probability</tspan>
+		</text>
+		<g ed:hyperlink="[&#xa;    {&#xa;        &quot;desc&quot;: &quot;Hyperlink1&quot;,&#xa;        &quot;link&quot;: &quot;SVG not support&quot;&#xa;    }&#xa;]&#xa;">
+			<use transform="translate(78,2)" xlink:href="#imghyperlink"/>
+		</g>
+	</g>
+	</a>
+	<a xlink:href="../content-vault/articles/Quantum_Physics/Quantum_Teleportation.pdf" target="_top">
+	<g transform="matrix(1,0,0,1,926.11,475)" ed:height="22" ed:width="178" ed:parentid="126" id="790">
+		<text class="st16">
+			<tspan style="white-space:pre" y="17.3" textLength="130" x="11">Quantum Teleportation</tspan>
+		</text>
+		<g ed:hyperlink="[&#xa;    {&#xa;        &quot;desc&quot;: &quot;Hyperlink1&quot;,&#xa;        &quot;link&quot;: &quot;SVG not support&quot;&#xa;    }&#xa;]&#xa;">
+			<use transform="translate(148,2)" xlink:href="#imghyperlink"/>
+		</g>
+	</g>
+	</a>
+	<a xlink:href="../content-vault/articles/Quantum_Physics/The_Density_Matrix.pdf" target="_top">
+	<g transform="matrix(1,0,0,1,926.11,503.5)" ed:height="22" ed:width="155.33333333333331" ed:parentid="126" id="792">
+		<text class="st16">
+			<tspan style="white-space:pre" y="17.3" textLength="109" x="11">The Density Matrix</tspan>
+		</text>
+		<g ed:hyperlink="[&#xa;    {&#xa;        &quot;desc&quot;: &quot;Hyperlink1&quot;,&#xa;        &quot;link&quot;: &quot;SVG not support&quot;&#xa;    }&#xa;]&#xa;">
+			<use transform="translate(126,2)" xlink:href="#imghyperlink"/>
+		</g>
+	</g>
+	</a>
+		<a xlink:href="../content-vault/articles/Quantum_Physics/The_Mechanism_of_Collapse.pdf" target="_top">
+			<g transform="matrix(1,0,0,1,926.11,532)" ed:height="22" ed:width="208" ed:parentid="126" id="794">
+				<text class="st16">
+					<tspan style="white-space:pre" y="17.3" textLength="160" x="11">The Mechanism of Collapse</tspan>
+				</text>
+				<g ed:hyperlink="[&#xa;    {&#xa;        &quot;desc&quot;: &quot;Hyperlink1&quot;,&#xa;        &quot;link&quot;: &quot;SVG not support&quot;&#xa;    }&#xa;]&#xa;">
+					<use transform="translate(178,2)" xlink:href="#imghyperlink"/>
+				</g>
+			</g>
+		</a>
+	<path stroke-width="3" transform="matrix(1,0,0,1,901.5,243.75)" stroke-linejoin="round" d="M-24.6,99.8C-2.5,94.8,-6.4,-92.8,24.6,-99.8" stroke="#5064ff" fill="none" ed:parentid="126" id="110" stroke-linecap="round" ed:tosuperid="124"/>
+	<path stroke-width="3" transform="matrix(1,0,0,1,901.5,258)" stroke-linejoin="round" d="M-24.6,85.5C6.1,79.6,-10.4,-78.8,24.6,-85.5" stroke="#5064ff" fill="none" ed:parentid="126" id="111" stroke-linecap="round" ed:tosuperid="125"/>
+	<path stroke-width="3" transform="matrix(1,0,0,1,901.5,272.25)" stroke-linejoin="round" d="M-24.6,71.3C5.2,66.5,-8.8,-65.9,24.6,-71.3" stroke="#5064ff" fill="none" ed:parentid="126" id="176" stroke-linecap="round" ed:tosuperid="175"/>
+	<path stroke-width="3" transform="matrix(1,0,0,1,901.5,286.5)" stroke-linejoin="round" d="M-24.6,57C3.6,53.4,-6.2,-53,24.6,-57" stroke="#5064ff" fill="none" ed:parentid="126" id="116" stroke-linecap="round" ed:tosuperid="130"/>
+	<path stroke-width="3" transform="matrix(1,0,0,1,901.5,300.75)" stroke-linejoin="round" d="M-24.6,42.8C1.5,40.2,-2.6,-40.1,24.6,-42.8" stroke="#5064ff" fill="none" ed:parentid="126" id="262" stroke-linecap="round" ed:tosuperid="261"/>
+	<path stroke-width="3" transform="matrix(1,0,0,1,901.5,315)" stroke-linejoin="round" d="M-24.6,28.5C-1.1,27,1.6,-27,24.6,-28.5" stroke="#5064ff" fill="none" ed:parentid="126" id="398" stroke-linecap="round" ed:tosuperid="397"/>
+	<path stroke-width="3" transform="matrix(1,0,0,1,901.5,329.25)" stroke-linejoin="round" d="M-24.6,14.3C-3.9,13.6,6.3,-13.7,24.6,-14.3" stroke="#5064ff" fill="none" ed:parentid="126" id="117" stroke-linecap="round" ed:tosuperid="131"/>
+	<path stroke-width="3" transform="matrix(1,0,0,1,901.5,343.5)" stroke-linejoin="round" d="M-24.6,0C-6.9,0,11.3,0,24.6,0" stroke="#5064ff" fill="none" ed:parentid="126" id="119" stroke-linecap="round" ed:tosuperid="133"/>
+	<path stroke-width="3" transform="matrix(1,0,0,1,901.5,357.75)" stroke-linejoin="round" d="M-24.6,-14.3C-3.9,-13.6,6.3,13.7,24.6,14.3" stroke="#5064ff" fill="none" ed:parentid="126" id="723" stroke-linecap="round" ed:tosuperid="722"/>
+	<path stroke-width="3" transform="matrix(1,0,0,1,901.5,372)" stroke-linejoin="round" d="M-24.6,-28.5C-1.1,-27,1.6,27,24.6,28.5" stroke="#5064ff" fill="none" ed:parentid="126" id="118" stroke-linecap="round" ed:tosuperid="132"/>
+	<path stroke-width="3" transform="matrix(1,0,0,1,901.5,386.25)" stroke-linejoin="round" d="M-24.6,-42.8C1.5,-40.2,-2.6,40.1,24.6,42.8" stroke="#5064ff" fill="none" ed:parentid="126" id="787" stroke-linecap="round" ed:tosuperid="786"/>
+	<path stroke-width="3" transform="matrix(1,0,0,1,901.5,400.5)" stroke-linejoin="round" d="M-24.6,-57C3.6,-53.4,-6.2,53,24.6,57" stroke="#5064ff" fill="none" ed:parentid="126" id="789" stroke-linecap="round" ed:tosuperid="788"/>
+	<path stroke-width="3" transform="matrix(1,0,0,1,901.5,414.75)" stroke-linejoin="round" d="M-24.6,-71.3C5.2,-66.5,-8.8,65.9,24.6,71.3" stroke="#5064ff" fill="none" ed:parentid="126" id="791" stroke-linecap="round" ed:tosuperid="790"/>
+	<path stroke-width="3" transform="matrix(1,0,0,1,901.5,429)" stroke-linejoin="round" d="M-24.6,-85.5C6.1,-79.6,-10.4,78.8,24.6,85.5" stroke="#5064ff" fill="none" ed:parentid="126" id="793" stroke-linecap="round" ed:tosuperid="792"/>
+	<path stroke-width="3" transform="matrix(1,0,0,1,901.5,443.25)" stroke-linejoin="round" d="M-24.6,-99.8C-2.5,-94.8,-6.4,92.8,24.6,99.8" stroke="#5064ff" fill="none" ed:parentid="126" id="795" stroke-linecap="round" ed:tosuperid="794"/>
+	<g transform="matrix(1,0,0,1,737.22,332.5)" ed:height="22" ed:width="139.66666666666669" ed:parentid="122" id="126">
+		<text class="st16">
+			<tspan style="white-space:pre" y="17.3" textLength="120" x="11">Quantum Mechanics</tspan>
+		</text>
+	</g>
+	<g transform="matrix(1,0,0,1,872.77,560.5)" ed:height="22" ed:width="170.33333333333334" ed:parentid="127" id="123">
+		<text class="st16">
+			<tspan style="white-space:pre" y="17.3" textLength="148" x="11">Random Cosmic Creation</tspan>
+		</text>
+	</g>
+	<g transform="matrix(1,0,0,1,872.77,589)" ed:height="22" ed:width="144.33333333333331" ed:parentid="127" id="128">
+		<text class="st16">
+			<tspan style="white-space:pre" y="17.3" textLength="121" x="11">The Big Bang Theory</tspan>
+		</text>
+	</g>
+	<g transform="matrix(1,0,0,1,872.77,617.5)" ed:height="22" ed:width="50.333333333333336" ed:parentid="127" id="129">
+		<text class="st16">
+			<tspan style="white-space:pre" y="17.3" textLength="29" x="11">CMB</tspan>
+		</text>
+	</g>
+	<path stroke-width="3" transform="matrix(1,0,0,1,848.16,585.75)" stroke-linejoin="round" d="M-24.6,14.3C-3.9,13.6,6.3,-13.7,24.6,-14.3" stroke="#5064ff" fill="none" ed:parentid="127" id="109" stroke-linecap="round" ed:tosuperid="123"/>
+	<path stroke-width="3" transform="matrix(1,0,0,1,848.16,600)" stroke-linejoin="round" d="M-24.6,0C-6.9,0,11.3,0,24.6,0" stroke="#5064ff" fill="none" ed:parentid="127" id="114" stroke-linecap="round" ed:tosuperid="128"/>
+	<path stroke-width="3" transform="matrix(1,0,0,1,848.16,614.25)" stroke-linejoin="round" d="M-24.6,-14.3C-3.9,-13.6,6.3,13.7,24.6,14.3" stroke="#5064ff" fill="none" ed:parentid="127" id="115" stroke-linecap="round" ed:tosuperid="129"/>
+	<g transform="matrix(1,0,0,1,737.22,589)" ed:height="22" ed:width="86.333333333333329" ed:parentid="122" id="127">
+		<text class="st16">
+			<tspan style="white-space:pre" y="17.3" textLength="65" x="11">Cosmology</tspan>
+		</text>
+	</g>
+	<path stroke-width="3" transform="matrix(1,0,0,1,712.61,407.63)" stroke-linejoin="round" d="M-24.6,64.1C4.5,59.9,-7.6,-59.5,24.6,-64.1" stroke="#5064ff" fill="none" ed:parentid="122" id="112" stroke-linecap="round" ed:tosuperid="126"/>
+	<path stroke-width="3" transform="matrix(1,0,0,1,712.61,535.88)" stroke-linejoin="round" d="M-24.6,-64.1C4.5,-59.9,-7.6,59.5,24.6,64.1" stroke="#5064ff" fill="none" ed:parentid="122" id="113" stroke-linecap="round" ed:tosuperid="127"/>
+	<g transform="matrix(1,0,0,1,468.67,452.42)" ed:height="38.666666666666671" ed:width="219.33333333333334" ed:parentid="136" id="122">
+		<text class="st17">
+			<tspan style="white-space:pre" y="26.967" textLength="188" x="20">The Standard Model</tspan>
+		</text>
+	</g>
+	<g transform="matrix(1,0,0,1,622.55,680.83)" ed:height="22" ed:width="136.33333333333331" ed:parentid="134" id="135">
+		<text class="st16">
+			<tspan style="white-space:pre" y="17.3" textLength="116" x="11">Maxwells Equations</tspan>
+		</text>
+	</g>
+	<path stroke-width="3" transform="matrix(1,0,0,1,597.94,691.83)" stroke-linejoin="round" d="M-24.6,0C-6.9,0,11.3,0,24.6,0" stroke="#00ac50" fill="none" ed:parentid="134" id="121" stroke-linecap="round" ed:tosuperid="135"/>
+	<g transform="matrix(1,0,0,1,468.67,672.5)" ed:height="38.666666666666671" ed:width="104.66666666666667" ed:parentid="136" id="134">
+		<text class="st17">
+			<tspan style="white-space:pre" y="26.967" textLength="71" x="20">Targets</tspan>
+		</text>
+	</g>
+	<a xlink:href="../content-vault/books/Theory_of_Information/A_Minimalistic_Theory_of_Quantized_Information_Final.pdf" target="_top">
+		<g transform="matrix(1,0,0,1,789.89,21)" ed:height="22" ed:width="393.33333333333331" ed:parentid="140" id="141">
+			<text class="st16">
+				<tspan style="white-space:pre" y="17.3" textLength="345" x="11">A Minimalistic Event Based Theory of Quantized information</tspan>
+			</text>
+			<g ed:hyperlink="[&#xa;    {&#xa;        &quot;desc&quot;: &quot;Hyperlink1&quot;,&#xa;        &quot;link&quot;: &quot;SVG not support&quot;&#xa;    }&#xa;]&#xa;">
+				<use transform="translate(364,2)" xlink:href="#imghyperlink"/>
+			</g>
+		</g>
+	</a>
+		<a xlink:href="../content-vault/books/Theory_of_Information/Instantaneous_Transmission_of_Information_Final.pdf" target="_top">
+			<g transform="matrix(1,0,0,1,789.89,49.5)" ed:height="22" ed:width="288" ed:parentid="140" id="142">
+				<text class="st16">
+					<tspan style="white-space:pre" y="17.3" textLength="240" x="11">Instantaneous Transmisson of information</tspan>
+				</text>
+				<g ed:hyperlink="[&#xa;    {&#xa;        &quot;desc&quot;: &quot;Hyperlink1&quot;,&#xa;        &quot;link&quot;: &quot;SVG not support&quot;&#xa;    }&#xa;]&#xa;">
+					<use transform="translate(258,2)" xlink:href="#imghyperlink"/>
+				</g>
+			</g>
+		</a>
+		<a xlink:href="../content-vault/books/Theory_of_Information/The_Paradigm_Shift_Final.pdf" target="_top">
+			<g transform="matrix(1,0,0,1,789.89,78)" ed:height="22" ed:width="158" ed:parentid="140" id="143">
+				<text class="st16">
+					<tspan style="white-space:pre" y="17.3" textLength="110" x="11">The Paradigm Shift</tspan>
+				</text>
+				<g ed:hyperlink="[&#xa;    {&#xa;        &quot;desc&quot;: &quot;Hyperlink1&quot;,&#xa;        &quot;link&quot;: &quot;SVG not support&quot;&#xa;    }&#xa;]&#xa;">
+					<use transform="translate(128,2)" xlink:href="#imghyperlink"/>
+				</g>
+			</g>
+		</a>
+	<path stroke-width="3" transform="matrix(1,0,0,1,765.28,46.25)" stroke-linejoin="round" d="M-24.6,14.3C-3.9,13.6,6.3,-13.7,24.6,-14.3" stroke="#825cf5" fill="none" ed:parentid="140" id="137" stroke-linecap="round" ed:tosuperid="141"/>
+	<path stroke-width="3" transform="matrix(1,0,0,1,765.28,60.5)" stroke-linejoin="round" d="M-24.6,0C-6.9,0,11.3,0,24.6,0" stroke="#825cf5" fill="none" ed:parentid="140" id="138" stroke-linecap="round" ed:tosuperid="142"/>
+	<path stroke-width="3" transform="matrix(1,0,0,1,765.28,74.75)" stroke-linejoin="round" d="M-24.6,-14.3C-3.9,-13.6,6.3,13.7,24.6,14.3" stroke="#825cf5" fill="none" ed:parentid="140" id="139" stroke-linecap="round" ed:tosuperid="143"/>
+	<g transform="matrix(1,0,0,1,468.67,41.17)" ed:height="38.666666666666671" ed:width="272" ed:parentid="136" id="140">
+		<text class="st17">
+			<tspan style="white-space:pre" y="26.967" textLength="242" x="20">The Theory of Information</tspan>
+		</text>
+	</g>
+	<path stroke-width="3" transform="matrix(1,0,0,1,341.5,423.96)" stroke-linejoin="round" d="M64.2,-47.8L66.4,-47.8C97.8,-45,94.9,45,127.2,47.8" stroke="#5064ff" fill="none" ed:parentid="136" id="108" stroke-linecap="round" ed:tosuperid="122"/>
+	<path stroke-width="3" transform="matrix(1,0,0,1,341.5,534)" stroke-linejoin="round" d="M64.2,-157.8L66.4,-157.8C93.8,-149.9,88.9,146.8,127.2,157.8" stroke="#00ac50" fill="none" ed:parentid="136" id="120" stroke-linecap="round" ed:tosuperid="134"/>
+	<path stroke-width="3" transform="matrix(1,0,0,1,341.5,218.33)" stroke-linejoin="round" d="M64.2,157.8L66.4,157.8C93.8,149.9,88.9,-146.8,127.2,-157.8" stroke="#825cf5" fill="none" ed:parentid="136" id="144" stroke-linecap="round" ed:tosuperid="140"/>
+	<g transform="matrix(1,0,0,1,23,345.5)" ed:height="61.333333333333336" ed:topictype="mainidea" ed:width="382.66666666666669" id="136" ed:layout="rightmap">
+		<path stroke-width="3" d="M12,0L370.7,0C378.7,0,382.7,3.9,382.7,12L382.7,49.3C382.7,57.4,378.7,61.3,370.7,61.3L12,61.3C3.9,61.3,0,57.4,0,49.3L0,12C0,3.9,3.9,0,12,0z" stroke-linejoin="round" stroke="#000000" fill="#000000" stroke-linecap="round"/>
+		<text class="st18">
+			<tspan style="white-space:pre" y="39.3" textLength="343" x="22">Epistemological Gatekeeping </tspan>
+		</text>
+	</g>
+</svg>

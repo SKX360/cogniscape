@@ -1,0 +1,40 @@
+/* Container to maintain aspect ratio */
+.svg-container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+}
+
+/* Make the SVG responsive */
+#mindmap {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+    /* Hover effects for your SVG links */
+    #mindmap a {
+        cursor: pointer;
+        transition: opacity 0.3s ease;
+    }
+
+        #mindmap a:hover {
+            opacity: 0.7;
+        }
+
+            /* If your SVG uses text, you can highlight it on hover */
+            #mindmap a:hover text {
+                fill: #0984e3; /* Accent color for links */
+                font-weight: bold;
+                text-decoration: underline;
+            }
+
+            /* Highlight specific branch paths if they are wrapped in the <a> tag */
+            #mindmap a:hover path {
+                stroke: #0984e3;
+                stroke-width: 2px;
+            }
