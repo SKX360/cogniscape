@@ -1,0 +1,241 @@
+\documentclass[12pt,spmpsci]{svmono}
+\usepackage[utf8]{inputenc}   % if you compile with pdfLaTeX
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+\usepackage{amsmath}
+\usepackage{natbib}
+\usepackage{booktabs}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{longtable}
+\usepackage{abstract}
+\usepackage{float}
+
+
+\usepackage{tcolorbox}
+\tcbuselibrary{listings}
+
+\usepackage{tcolorbox}
+\tcbuselibrary{listings}
+
+
+
+% ---------- Volume command (place in preamble) ----------
+\usepackage{etoolbox} % small dependency; safe and useful
+\newcounter{volume}
+\renewcommand\thevolume{\Roman{volume}} % change to \arabic if you prefer
+
+\newcommand{\volume}[1]{%
+  \cleardoublepage
+  \refstepcounter{volume}% increment counter and make it referencable
+  \thispagestyle{plain}%
+  \begingroup
+    \centering
+    \vspace*{4cm}%
+    {\Huge\bfseries Volume~\thevolume\par}%
+    \vskip2em
+    {\LARGE #1\par}%
+    \vskip4em
+  \endgroup
+  % Add to TOC at part level (simple, robust form)
+  \addcontentsline{toc}{part}{Volume~\thevolume: #1}%
+  \cleardoublepage
+}
+% ---------- end volume command ----------
+
+
+
+
+\newtcblisting{pseudocode}{
+  listing only,
+  listing options={
+    language=Python,
+    basicstyle=\ttfamily\small,
+    keywordstyle=\color{blue},
+    commentstyle=\color{green!50!black},
+    stringstyle=\color{red},
+    showstringspaces=false,
+    breaklines=true,
+  },
+  colback=blue!10, colframe=black!50,
+  boxrule=0.5pt, arc=4pt, left=2mm, right=2mm, top=1mm, bottom=1mm
+}
+
+
+
+\newtcblisting{pythoncode}{
+  listing only,
+  listing options={
+    language=Python,
+    basicstyle=\ttfamily\small,
+    keywordstyle=\color{blue},
+    commentstyle=\color{green!50!black},
+    stringstyle=\color{red},
+    showstringspaces=false,
+    breaklines=true,
+  },
+  colback=gray!10, colframe=black!50,
+  boxrule=0.5pt, arc=4pt, left=2mm, right=2mm, top=1mm, bottom=1mm
+}
+
+\newtcblisting{jsoncode}{
+  listing only,
+  listing options={
+    language=Python,
+    basicstyle=\ttfamily\small,
+    keywordstyle=\color{blue},
+    commentstyle=\color{green!50!black},
+    stringstyle=\color{red},
+    showstringspaces=false,
+    breaklines=true,
+  },
+  colback=lightgray!10, colframe=black!50,
+  boxrule=0.5pt, arc=4pt, left=2mm, right=2mm, top=1mm, bottom=1mm
+}
+
+
+
+
+
+\bibliographystyle{apa}
+
+\title{Automated Ontological Analysis}
+\subtitle{A Novel Framework for Rigorous Analysis of Ontologies}
+
+\author{Sagar Rajen Kapadia}
+\date{October 2025}
+
+\begin{document}
+
+\maketitle
+
+\input{abstract}
+\tableofcontents
+
+
+
+
+\input{introduction}
+\input{Overview}
+
+
+\volume{Information Theory}
+\part{Redundancy Ratio}
+\input{components/redundancy_ratio/redundancy_ratio}
+\input{components/redundancy_ratio/redundancy_ratio_element-level_analysis}
+\input{components/redundancy_ratio/redundancy_ratio_set-level_analysis}
+\input{components/redundancy_ratio/redundancy_ratio_element-vs-set-level_analysis}
+
+\part{Ambiguous Elements Matrix}
+\input{components/ambiguous-elements-matrix/ambiguous-elements-matrix}
+\input{components/ambiguous-elements-matrix/ambiguous-element-matrix_element_level_analysis}
+\input{components/ambiguous-elements-matrix/ambiguous-elements-matrix_set_level_analysis}
+\input{components/ambiguous-elements-matrix/ambiguous-element-matrix_element-vs-set_level_analysis}
+
+
+\volume{Set Theory and Mathematics}
+
+\part{Pairwise-Intersection Analysis}
+\input{components/intersection_analysis/intersection_analysis}
+\input{components/intersection_analysis/element-level_intersection-analysis}
+\input{components/intersection_analysis/set-level_intersection-analysis}
+\input{components/intersection_analysis/intersection-analysis_element-vs-set_level}
+
+
+\part{Jacquard Analysis}
+\input{components/jacquard/jacquard}
+\input{components/jacquard/jacquard_element_level_analysis}
+\input{components/jacquard/jacquard_set_level_analysis}
+\input{components/jacquard/interrelationships}
+\input{components/jacquard/jacquard_element_vs_section}
+
+\volume{Topology and Statistics}
+
+\part{Betti Curves}
+\input{components/betti_curves/betti-curves}
+\input{components/betti_curves/betti-curves_element-level-analysis}
+\input{components/betti_curves/betti-curves_set-level-analysis}
+\input{components/betti_curves/betti-curves-element-vs-set-level-analysis}
+
+
+\part{Persistent Homology}
+\input{components/persistent-homology/persistent-homololgy_general}
+\input{components/persistent-homology/persistent-homology_element_level_analysis}
+\input{components/persistent-homology/persistent-homology_set_level_analysis}
+\input{components/persistent-homology/persistent-homology_element-vs-set_level_analysis}
+
+\volume{Statistics - Multivariate Analysis}
+\part{Axis Independence Score}
+\input{components/axis-indendence-score_analysis/axis-independence-score_general}
+\input{components/axis-indendence-score_analysis/axis-independence-score_element}
+\input{components/axis-indendence-score_analysis/axis-independence-score_set_level_analysis}
+\input{components/axis-indendence-score_analysis/axis-independence-score_element-vs-set_level_analysis}
+
+
+
+\part{Principal Component Analysis}
+\input{components/principal_component_analysis/pca_analysis}
+\input{components/principal_component_analysis/pca_element-level_analysis}
+\input{components/principal_component_analysis/pca_set-level-analysis}
+\input{components/principal_component_analysis/pca_element-vs-set_level_analysis}
+
+\part{Principal Component Analysis - The Scree Test}
+\input{components/pca_scree/pca_scree_analysis}
+\input{components/pca_scree/pca_scree_element_analysis}
+\input{components/pca_scree/pca_scree_set_analysis}
+\input{components/pca_scree/pca_scree_element-vs-set_analysis}
+\input{components/principal_component_analysis/pca-vs-pca-scree}
+
+\part{Principal Component Analysis - Loadings on Components}
+\input{components/pca_loadings/pca_loadings}
+\input{components/pca_loadings/pcal_loadings_element-level_analysis}
+\input{components/pca_loadings/pca_loading_set-level_analysis}
+\input{components/pca_loadings/pca_loadings_element_vs-level_analysis}
+\input{components/pca_loadings/pca-vs-loadings_analysis}
+
+
+\volume{Information Retrieval / Library Science}
+\part{Overlap Index}
+\input{components/overlap_index/overlap_index_analysis}
+\input{components/overlap_index/overlap-index_element-level_analysis}
+\input{components/overlap_index/overlap-index_set-level_analysis}
+\input{components/overlap_index/overlap-index_element-vs-set_level_analysis}
+
+\part{Membership Histogram Analysis}
+\input{components/membership_histogram_analysis/membership_hitogram_analysis}
+\input{components/membership_histogram_analysis/membership_histogram_element-level_analysis}
+\input{components/membership_histogram_analysis/membership_histogram_set-level-analysis}
+\input{components/membership_histogram_analysis/membership_histogram_element-vs-set-level_analysis}
+
+
+\volume{Network Science / Sociology}
+\part{Community Detection Analysis}
+\input{components/community_detection/community_detection}
+\input{components/community_detection/community_detection_element-level-analysis}
+\input{components/community_detection/community_detection_set-level-analysis}
+\input{components/community_detection/community_detection_element-vs-set_level_analsys}
+
+
+\volume{Ontology Engineering / Philosophy of Science}
+
+\part{Taxonomic Collapse Index}
+\input{components/taxonomic-collapse-index/taxonomic-collapse-index_general}
+\input{components/taxonomic-collapse-index/taxonomic-collapse-index_element_level_analysis}
+\input{components/taxonomic-collapse-index/taxonomic-collapse-index_set_level_analysis}
+\input{components/taxonomic-collapse-index/taxonomic-collapse-index_element-vs-set_level_analysis}
+
+
+\part{Conclusion}
+\input{conclusion}
+
+\appendix
+\input{appendices/appendix_master_synthesis_table}
+\input{graphics/ticz/appendix_master_diagram}
+
+
+
+
+
+
+
+\end{document}

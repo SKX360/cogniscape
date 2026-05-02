@@ -1,0 +1,106 @@
+%\documentclass[]{svmono}
+\documentclass[spmsci]{svmono}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+\usepackage{amsmath}
+
+\usepackage{booktabs}
+
+\usepackage{xcolor}
+\usepackage{longtable}
+%\usepackage{abstract}
+\usepackage[hidelinks]{hyperref}
+\usepackage{listings}
+\lstset{
+  language=Python,
+  basicstyle=\ttfamily\small,
+  keywordstyle=\color{blue},
+  commentstyle=\color{green},
+  stringstyle=\color{red},
+  showstringspaces=false,
+  breaklines=true
+}
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta, positioning, shapes, backgrounds}
+\tikzstyle{block} = [rectangle, rounded corners, minimum width=3cm, minimum height=1cm,text centered, draw=black, fill=gray!15]
+\tikzstyle{arrow} = [thick,->,>=stealth]
+
+
+\usepackage[square]{natbib}
+\let\oldcitep\citep
+\renewcommand{\citep}[1]{\textbf{\oldcitep{#1}}}
+
+\let\oldcitet\citet
+\renewcommand{\citet}[1]{\textbf{\oldcitet{#1}}}
+
+
+% \makeatletter
+% \newcounter{volume}
+% \renewcommand\thevolume{\Roman{volume}}
+
+% \newcommand\volume[1]{%
+%   \cleardoublepage
+%   \refstepcounter{volume}%
+%   \thispagestyle{plain}%
+%   \begin{center}
+%     \vspace*{4cm}
+%     {\Huge\bfseries Volume~\thevolume\par}%
+%     \vskip2em
+%     {\LARGE #1\par}%
+%   \end{center}
+%   \addcontentsline{toc}{part}{\protect\large\bfseries Volume~\thevolume: #1}%
+%   \cleardoublepage
+% }
+% \makeatother
+
+% ---------- Volume command (place in preamble) ----------
+\usepackage{etoolbox} % small dependency; safe and useful
+\newcounter{volume}
+\renewcommand\thevolume{\Roman{volume}} % change to \arabic if you prefer
+
+\newcommand{\volume}[1]{%
+  \cleardoublepage
+  \refstepcounter{volume}% increment counter and make it referencable
+  \thispagestyle{plain}%
+  \begingroup
+    \centering
+    \vspace*{4cm}%
+    {\Huge\bfseries Volume~\thevolume\par}%
+    \vskip2em
+    {\LARGE #1\par}%
+    \vskip4em
+  \endgroup
+  % Add to TOC at part level (simple, robust form)
+  \addcontentsline{toc}{part}{Volume~\thevolume: #1}%
+  \cleardoublepage
+}
+% ---------- end volume command ----------
+
+
+
+
+\bibliographystyle{apa}
+
+
+
+\title{A Minimalist, Event-Based Theory of Quantized Information}
+%\subtitle{With Philosophical Implications}
+
+\author{Sagar Rajen Kapadia}
+\date{September 2025}
+
+\begin{document}
+
+\maketitle
+\tableofcontents
+
+\clearpage
+\input{abstract}
+%\input{vol-01_the_theory/main}
+\input{vol-02_a_thought_experiment/main}
+%\input{vol-03_a_paradigm_shift/main}
+%\input{vol-04_philosophical_implications/main}
+%\input{vol-05_technological_advances/main}
+
+\end{document}
