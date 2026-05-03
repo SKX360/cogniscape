@@ -9,7 +9,7 @@ if not exist "%RootFolder%\" (
     exit /b 1
 )
 
-set "OutputFile=%RootFolder%\index.html"
+set "OutputFile=%RootFolder%\raw_index.html"
 set "TempFile=%RootFolder%\~temp_pdfs.txt"
 
 pushd "%RootFolder%"

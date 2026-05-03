@@ -1,0 +1,70 @@
+
+
+
+RCA: A sudden drop in chamber pressure in a solid rocket motor followed by trajectory Deviation
+
+Mission Termination:  ISRO terminated the mission to ensure safety, resulting in the loss of the EOS-09 satellite.
+
+Specific Observations
+a. Sudden loss in Chamber Pressure [Telemetry showed a pressure drop within ~1 second of third-stage ignition]
+
+Observations
+External 
+a. Deviation in Trajectory:  The rocket veered off its intended path during the third-stage burn, indicating a potential issue with thrust vector control. 
+-Radar and other external monitoring systems and internal telemetry data
+
+
+
+Internal Telemetry Systems
+a. Loss of chamber pressure 
+a. Underperformance of Third-Stage Motor: Insufficient velocity for orbital insertion. 
+
+Caused By
+a. Loss of thrust was caused by lost of chamber pressure
+
+
+
+Unknown
+a. The nozzle was expected to pivot for attitude correction - did that happen [Irrelevant because loss-of-thrust would be sufficient to cause trajectory deviation irrespective of whether the flex Nozzle pivoted for attitude correction or not]
+
+
+Explanation
+1. Loss of Chamber pressure 
+2. lead to lost of thrust 
+3. Underperformance of Third-Stage Motor 
+4. insufficient velocity for orbital insertion
+
+
+
+
+
+
+
+
+Context
+Solid rocket motors do not rely on active fuel flow systems like liquid engines. Instead, they use pre-packed solid propellant that burns from the inside out in a controlled manner.
+
+The fuel didn’t stop flowing, because solid motors don’t have active pumps or flow lines.
+
+The combustion didn’t "taper off" gently — a sudden drop suggests a mechanical fault, not a graceful degradation.
+
+ Why This Is Important:
+Chamber pressure in solid motors is a proxy for combustion efficiency and nozzle behavior.
+
+A drop means something disrupted the balance between burning propellant and gas expansion through the nozzle.
+
+
+Seal or Joint Failure
+Extreme or abrupt misalignment could physically damage internal seals or the flexible joint.
+
+This might cause hot gas leaks — reducing internal pressure without visible external damage until after failure.
+
+
+
+
+
+Implicates
+Flex Nozzle System Failure
+
+
+ 
